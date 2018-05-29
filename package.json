@@ -1,8 +1,8 @@
 {
   "name": "chalkboard-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
-  "description": "Chalkboard theme for Atom",
+  "version": "0.1.0",
+  "description": "A Monokai-like theme based on the bright pastel colours you might find in a box of chalks, with a slightly rosey off-grey background.",
   "keywords": [
 	"dark",
     "syntax",
